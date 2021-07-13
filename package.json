@@ -1,0 +1,27 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "typescript is applying react and vue's source code ,if you don't understand typescript, it's hard to learn it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicemw/ts-is-very-hard.git"
+  },
+  "keywords": [
+    "typescript",
+    "learning"
+  ],
+  "author": "yuchao@1990",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicemw/ts-is-very-hard/issues"
+  },
+  "homepage": "https://github.com/alicemw/ts-is-very-hard#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7"
+  }
+}
